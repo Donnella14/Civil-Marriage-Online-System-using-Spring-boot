@@ -1,6 +1,6 @@
 # Civil-Mariage Application
 
-This is a web application written in spring boot and is intended to help customers to order cakes online, this app has different features like sign up, login to the account, creating, displaying updating and deleting cakes,upload and download files...
+This is a web application written in spring boot and is intended to manage civil marriage online registration requests. People will be able to register and ask for available date to get married and being able to see if it's rejected or approved.
 
 ## Getting Started
 
